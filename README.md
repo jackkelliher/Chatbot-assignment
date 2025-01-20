@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7998289&assignment_repo_type=AssignmentRepo)
 
-Reupload of a chat server created in 2023 in intermediate App Dev
+Reupload of a chat server created in 2022 in intermediate App Dev
 
 # in608-chat-server
 # To set the server up, first run the database.py file at least once to create the relevant tables needed for operation
